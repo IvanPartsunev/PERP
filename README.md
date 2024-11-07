@@ -30,5 +30,4 @@ An ERP system designed to streamline warehouse management processes, optimize in
 ├── users/               # User roles and authentication
 ├── analytics/           # Data analytics and reporting
 ├── api/                 # API endpoints
-└── README.md
 
